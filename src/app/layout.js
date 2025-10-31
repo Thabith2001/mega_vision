@@ -8,7 +8,7 @@ export const metadata = {
     title: 'mega vision',
     description: 'mega vision',
     icons: {
-        icon: '/next.svg',
+        icon: '/images/cctv.svg',
     },
 };
 
